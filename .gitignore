@@ -1,0 +1,7 @@
+# Ignore .env
+.env
+
+# Ignore unnecessary wp-content files
+./wp-content/uploaded
+./wp-content/index.php
+./wp-content/upgrade
